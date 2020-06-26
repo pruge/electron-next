@@ -34,14 +34,14 @@
   "author": "leo",
   "license": "MIT",
   "dependencies": {
-    "app-root-path": ">=2.0.1",
-    "electron-is-dev": ">=0.3.0"
+    "app-root-path": ">=3.0.0",
+    "electron-is-dev": ">=1.2.0"
   },
   "devDependencies": {
-    "eslint-config-prettier": "2.9.0",
-    "husky": "0.14.3",
-    "lint-staged": "7.0.0",
-    "prettier": "1.10.2",
-    "xo": "0.20.3"
+    "eslint-config-prettier": "6.11.0",
+    "husky": "4.2.5",
+    "lint-staged": "10.2.11",
+    "prettier": "2.0.5",
+    "xo": "0.32.0"
   }
 }
